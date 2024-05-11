@@ -7,8 +7,9 @@ function App() {
   return (
     <div>
       <a href="https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=mI1CT3WmxHFkUYOY">
-        <h1>ReactJS Notes from Chai and React</h1>
+        <h1>React Notes from Chai and React</h1>
       </a>
+      <p>prathmesh</p>
       <div>
         <a href="https://youtu.be/k3KqQvywToE?si=KQHvvhfAOYiK8V84">
           <h3>02 Create react projects &</h3>
