@@ -7,9 +7,8 @@ function App() {
   return (
     <div>
       <a href="https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=mI1CT3WmxHFkUYOY">
-        <h1>React Notes from Chai and React</h1>
+        <h1>React JS Notes from Chai and React</h1>
       </a>
-      <p>prathmesh</p>
       <div>
         <a href="https://youtu.be/k3KqQvywToE?si=KQHvvhfAOYiK8V84">
           <h3>02 Create react projects &</h3>
@@ -530,7 +529,7 @@ function App() {
           <li></li>
           <li></li>
         </ul>
-        <img src={flow} alt="Flow of Context" width={800} />
+        {/* <img src={flow} alt="Flow of Context" width={800} /> */}
       </div>
 
       <div>
