@@ -1,7 +1,7 @@
 import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import "./App.css";
-import flow from "D:/Shubham/Workspace/Reactjs/Reactjs-Notes/public/static/images";
+import flow from "../public/static/images/Flow of Context API.png";
 
 function App() {
   return (
